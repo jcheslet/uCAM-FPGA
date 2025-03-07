@@ -1,0 +1,5 @@
+#ignore vivado except .xpr
+vivado-2020/*
+!vivado-2020/*.xpr
+!vivado-2020/*.wcfg
+
